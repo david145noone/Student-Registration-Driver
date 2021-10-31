@@ -12,6 +12,6 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
-    implementation 'com.github.david145noone:Student-Registration-System:main-SNAPSHOT'
+    implementation 'com.github.david145noone:Student-Registration-System:v1.1'
     implementation group: 'org.terasoluna.gfw', name: 'terasoluna-gfw-jodatime', version: '5.7.0.RELEASE'
 }
